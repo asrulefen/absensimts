@@ -1,0 +1,6 @@
+{
+  "name": "MTs Al-Asy'ari",
+  "description": "Aplikasi presensi guru MTs Al-Asy'ari Prunggahan Kulon berbasis GPS geofencing, login akun guru via username dan password, sesi akun tersimpan di perangkat, dan terintegrasi portal mtsalasyari.my.id.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
